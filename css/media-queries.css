@@ -1,0 +1,21 @@
+/* Tablet */
+@media screen and (min-width: 876px) {
+    main {
+        display: flex;
+        justify-content: center;
+        padding-top: 3rem;
+    }
+
+    .img-phone-container {
+        display: initial;
+    }
+
+    .log-in-container {
+        order: 1;
+    }
+
+}
+
+@media screen and (min-width: 1527px) {
+    
+}
